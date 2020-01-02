@@ -2,7 +2,7 @@
 ## 🕹 I was intended to make roguelike..
 
 ### Description
-This is second Greenfoot game I made for ***2017 SOGRA HACKATHON***. Check out the [first Greenfoot game](https://github.com/Yabby1997/StarWars-Edge-of-Galactic-Empire) I made!
+This is second Greenfoot game I made for ***2017 SOGRA Hackathon***. Check out the [first Greenfoot game](https://github.com/Yabby1997/StarWars-Edge-of-Galactic-Empire) I made!
 + Language : Java
 + Environment : JVM, [Greenfoot](https://www.greenfoot.org)
 
@@ -34,8 +34,8 @@ This game is for two-player batlle royale game inspired by rogue-like and Minecr
 + Bullet : bullet is needed to shoot a fire ball. you can get more 𝘉 bullets from 📦 random chest on field.
 + Hungry : hungry increases whenever you move. if your hungry exceed 100, your HP will decrease continuously. you can decrease your hungry by eating 🥩 meat.
 + Resource : resource is needed to place a wall infront of you. you can get resources by stabbing 🌴 trees
-+ 📦 random chest : two chests will appear on field randomly. you can get item from it by stabbing.
-+ 🐄 cow : cows are randomly scattered on field initially. you can get meat from it by stabbing or hitting fire balls.
-+ 🌴 tree : trees are randomly cattered on field initially. you can get resource from it by stabbing.
-+ 🔳 solid wall : solid walls are randomly scattered on field. you can't destroy it.
-+ 🔲 wall : walls can be placed by players. it is destroyable by stabbing it or hitting fire balls.
++ 📦 random chest : two chests will appear on field randomly for limited time. if you destroy chest by stabbing it, you can get random items from.
++ 🐄 cow : cows are randomly scattered on field initially. you can get meats from it by stabbing or hitting fire balls.
++ 🌴 tree : trees are randomly cattered on field initially. you can get resourceds from it by stabbing.
++ 🔳 solid wall : solid walls are randomly scattered on field. you can't destroy or move over it.
++ 🔲 wall : walls can be placed by players. it can be destroyed by stabbing or hitting fire balls. but you can't move over it.
