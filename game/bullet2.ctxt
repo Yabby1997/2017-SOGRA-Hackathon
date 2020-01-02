@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=bullet2
+comment1.params=direction
+comment1.target=bullet2(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

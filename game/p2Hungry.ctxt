@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=p2Hungry
+comment1.params=
+comment1.target=void\ act()
+comment2.params=maxAmount\ currentAmount
+comment2.target=void\ checkHungry(int,\ int)
+numComments=3
