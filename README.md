@@ -1,5 +1,5 @@
 # 2017-SOGRA-Hackathon
-## 🕹 I wans intended to make roguelike..
+## 🕹 I was intended to make roguelike..
 
 ### Description
 This is second Greenfoot game I made for ***2017 SOGRA HACKATHON***. Check out the [first one](https://github.com/Yabby1997/StarWars-Edge-of-Galactic-Empire)
