@@ -2,7 +2,7 @@
 ## 🕹 I was intended to make roguelike..
 
 ### Description
-This is second Greenfoot game I made for ***2017 SOGRA HACKATHON***. Check out the [first one](https://github.com/Yabby1997/StarWars-Edge-of-Galactic-Empire)
+This is second Greenfoot game I made for ***2017 SOGRA HACKATHON***. Check out the [first Greenfoot game](https://github.com/Yabby1997/StarWars-Edge-of-Galactic-Empire) I made!
 + Language : Java
 + Environment : JVM, [Greenfoot](https://www.greenfoot.org)
 
